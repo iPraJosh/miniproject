@@ -28,7 +28,7 @@ Create a new file named .env in the project root and add the following:
     VITE_SUPABASE_ANON_KEY=your-supabase-anon-key-here
 
 
-💡 Tip: You can refer to the provided .env.example file to know what variables are required.
+💡 Tip: You can refer to the provided .env example file to know what variables are required.
 
 If you have your own Supabase project:
 
